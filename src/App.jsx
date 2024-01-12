@@ -31,7 +31,7 @@ const siteProps = {
   email: "raniamehreenfarooq@gmail.com",
   gitHub: "Rania-Farooq",
   instagram: "rania.mehreen",
-  linkedin: "raniafarooq",
+  linkedIn: "raniafarooq",
 };
 
 const primaryColor = "#4E567E";
