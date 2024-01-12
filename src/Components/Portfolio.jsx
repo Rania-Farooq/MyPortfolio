@@ -43,7 +43,6 @@ const projectList = [
     description: "Made a portfolio website using HTML,CSS and JS.",
     url: "https://raniafarooq.netlify.app/",
   },
-  
 ];
 
 const Portfolio = () => {
