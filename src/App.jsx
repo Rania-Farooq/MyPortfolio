@@ -24,7 +24,6 @@ import "./styles.css";
  * If you don't have one of the social sites listed, leave it as an empty string.
  */
 const siteProps = {
- arooq",
   medium: "",
   twitter: "",
   youTube: "raniamehreenfarooq", name: "Rania Mehreen Farooq",
@@ -32,7 +31,6 @@ const siteProps = {
   email: "raniamehreenfarooq@gmail.com",
   gitHub: "Rania-Farooq",
   instagram: "rania.mehreen",
-  linkedIn: "raniaf
 };
 
 const primaryColor = "#4E567E";
